@@ -1,4 +1,4 @@
-## Data Analyst | Behavioral Insights | R & Python | Research & Statistical Modeling | Psychology
+### Data Analyst | Behavioral Insights | R & Python | Research & Statistical Modeling | Psychology
 
 Data-driven, analytical, and always curious. I specialize in extracting meaningful insights from datasets. With a background in psychology and a master's in Research on Behaviour and Cognition, I bring a unique perspective to data analysis, bridging human behavior with statistical modeling.
 
