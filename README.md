@@ -7,7 +7,7 @@ Experienced in research, predictive analytics, data cleaning and visualization. 
 I'm eager to leverage my analytical mindset and technical skills to drive data-informed decisions in dynamic environments.
 
 
-### Contact me for more info through Linkedin: 
+### Contact me through Linkedin: 
 www.linkedin.com/in/antonio-gonzález-del-pozo-27b938291
 
 
